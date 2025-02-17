@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <>
-    <p>Anil Sharma and jitendra</p>
+    <p>Anil Sharma and jitendra Hello from this this</p>
     </>
   );
 }
